@@ -4,13 +4,13 @@ Welcome to the Chatbot Model Comparison activity! Here, you will compare the out
 Complete the activity [here](https://igfnaqfcyl-13589482-i.codehs.me/index.html).  Then edit this page and write down your reflections here:
 
 ### Which model did you find performed best overall, and why?
-[Reflection Here]
+I believe it's a mixture between GPT-4 and Llama. This is because, as GPT is efficient in the way it explains concepts, more difficult or insightful topics, such as being a nurse or the pro and con about emissions needs more detail to properly explain.
 
 ### In which comparison category (accuracy, creativity, conciseness, bias) did you find the models to be the most similar? What about the most different?
-[Reflection Here]
+I'd say bias goes to Llama, as it based its data and content off of ones from the United States instead of the entire world, thus having sample bias. 
 
 ### Were you surprised by any of the results?
-[Reflection Here]
+I was surprised of the existence of an LLM named Llama.
 
 ### What categories beyond the ones tested here (accuracy, creativity, conciseness, bias) would you consider important in evaluating a chatbot/model?
-[Reflection Here]
+I'd say efficiency is another one to consider; a combination of all four of the categories that are being tested. A truly efficient model should be able to easily score in all of these concepts.
